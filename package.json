@@ -1,11 +1,12 @@
 {
-  "name": "Ambitopia Theme",
-  "content_type": "theme",
-  "area": "theme",
+  "name": "sn-ambitopia-theme",
   "version": "1.0.0",
-  "description": "A Dark Theme for Standard Notes.",
-},
+  "main": "dist/dist.css",
+  "sn": {
+    "main": "dist/dist.css"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/yannnovak/sn-ambitopia-theme.git"
+  }
 }
