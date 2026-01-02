@@ -1,2 +1,2 @@
 # Ambitopia Theme
-a Dark Theme for Standard Notes
+A Dark Theme for Standard Notes
