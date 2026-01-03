@@ -15,13 +15,13 @@
     --sn-stylekit-shadow-color: #000000;
     --sn-stylekit-info-color: var(--highlight-color);
     --sn-stylekit-info-contrast-color: var(--background-color);
-    --sn-stylekit-neutral-color: #385a8c;
+    --sn-stylekit-neutral-color: #7c7c7c;
     --sn-stylekit-neutral-contrast-color: #ffffff;
     --sn-stylekit-success-color: #397979;
     --sn-stylekit-success-contrast-color: #ffffff;
     --sn-stylekit-warning-color: #c5003c;
     --sn-stylekit-warning-contrast-color: #ffffff;
-    --sn-stylekit-danger-color: #c5003c;
+    --sn-stylekit-danger-color: #385a8c;
     --sn-stylekit-danger-contrast-color: #ffffff;
     --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
     --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
@@ -57,8 +57,8 @@
     --text-selection-color: var(--foreground-color);
     --text-selection-background-color: var(--sn-stylekit-neutral-color);
 
-    --sn-stylekit-accessory-tint-color-1: var(--sn-stylekit-info-color);
-
+    --sn-stylekit-accessory-tint-color-1: #385a8c;
+    --sn-stylekit-accessory-tint-color-2: #385a8c;
     --sn-stylekit-accessory-tint-color-3: var(--sn-stylekit-warning-color);
 
     --sn-stylekit-info-backdrop-color: #5f5f5f0f;
