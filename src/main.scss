@@ -57,7 +57,7 @@
     --text-selection-color: var(--foreground-color);
     --text-selection-background-color: var(--sn-stylekit-neutral-color);
 
-    --sn-stylekit-accessory-tint-color-1: #385a8c;
+    --sn-stylekit-accessory-tint-color-1: var(--sn-stylekit-info-color);
     --sn-stylekit-accessory-tint-color-2: #385a8c;
     --sn-stylekit-accessory-tint-color-3: var(--sn-stylekit-warning-color);
 
