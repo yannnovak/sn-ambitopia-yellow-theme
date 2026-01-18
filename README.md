@@ -14,4 +14,4 @@ https://cdn.jsdelivr.net/gh/yannnovak/sn-ambitopia-yellow-theme@main/ext.json
 
 ## Related
 
-- **[Ambitopia Dotfiles](https://github.com/yannnovak/dotfiles-ambitopia)** - Main color scheme and configurations.
+- **[Ambitopia Dotfiles](https://github.com/yannnovak/ambitopia)** - Main color scheme and configurations.
