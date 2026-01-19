@@ -1,8 +1,12 @@
 # Ambitopia \[yellow\] Theme
 
-A dark [Standard Notes](https://standardnotes.org/) theme featuring my Ambitopia color scheme with yellow highlight.
+A dark [Standard Notes](https://standardnotes.org/) theme from the Ambitopia design system (yellow variant).
 
 **Other variants:** [Red version](https://github.com/yannnovak/sn-ambitopia-red-theme)
+
+## Preview
+
+<img src="preview.png"/>
 
 ## Installation
 
@@ -14,4 +18,4 @@ https://cdn.jsdelivr.net/gh/yannnovak/sn-ambitopia-yellow-theme@main/ext.json
 
 ## Related
 
-- **[Ambitopia Dotfiles](https://github.com/yannnovak/ambitopia)** - Main color scheme and configurations.
+- **[Ambitopia Design System](https://github.com/yannnovak/ambitopia)** - Main design system and configurations.
