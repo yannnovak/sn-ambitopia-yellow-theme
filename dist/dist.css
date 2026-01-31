@@ -55,6 +55,7 @@
     --navigation-item-selected-background-color: var(--background-color);
     --normal-button-background-color: var(--sn-stylekit-passive-color-5);
     --popover-border-color: var(--sn-stylekit-passive-color-3);
+    --popover-background-color: var(--background-color);
     --separator-color: var(--sn-stylekit-passive-color-3);
     --text-selection-color: var(--foreground-color);
     --text-selection-background-color: var(--sn-stylekit-neutral-color);
