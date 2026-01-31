@@ -2,8 +2,10 @@
 @import url(https://fonts.bunny.net/css?family=space-mono:400,400i,700,700i);
 
 :root {
-    --ambitopia-interface-font: "Barlow" -apple-system, BlinkMacSystemFont, sans-serif;
+    --ambitopia-interface-font: "Barlow";
     --ambitopia-monospace-font: "Space Mono";
+    --sn-stylekit-sans-serif-font: var(--ambitopia-interface-font), -apple-system, BlinkMacSystemFont, sans-serif;
+    --sn-stylekit-monospace-font: var(--ambitopia-monospace-font), 'Ubuntu Mono', monospace;
     --foreground-color: #e3e3e3;
     --background-color: #030408;
     --highlight-color: #fdf400;
@@ -30,7 +32,6 @@
     --sn-stylekit-danger-contrast-color: #ffffff;
     --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
     --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
-    --sn-stylekit-sans-serif-font: var(--ambitopia-interface-font);
     --sn-stylekit-background-color: var(--background-color);
     --sn-stylekit-foreground-color: var(--foreground-color);
     --sn-stylekit-border-color: #181a1b;
@@ -62,15 +63,11 @@
     --sn-stylekit-accessory-tint-color-3: var(--sn-stylekit-warning-color);
     --sn-stylekit-info-backdrop-color: #5f5f5f0f;
 }
-body {
-    font-family: var(--ambitopia-interface-font);
-}
 .translucent-ui [role='dialog'] {
     --sn-stylekit-border-color: var(--sn-stylekit-passive-color-3);
 }
 code.Lexical__code {
     background-color: #17181c;
-    font-family: var(--ambitopia-monospace-font);
 }
 .Lexical__tokenFunction {
     color: #e61e5b;
