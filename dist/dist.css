@@ -63,6 +63,9 @@
     --sn-stylekit-accessory-tint-color-3: var(--sn-stylekit-warning-color);
     --sn-stylekit-info-backdrop-color: #5f5f5f0f;
 }
+html, body {
+    font-family: var(--sn-stylekit-sans-serif-font) !important;
+}
 .translucent-ui [role='dialog'] {
     --sn-stylekit-border-color: var(--sn-stylekit-passive-color-3);
 }
