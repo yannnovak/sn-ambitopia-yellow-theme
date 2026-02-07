@@ -70,6 +70,9 @@ html, body {
 .translucent-ui [role='dialog'] {
     --sn-stylekit-border-color: var(--sn-stylekit-passive-color-3);
 }
+.translucent-ui .translucent-ui\:bg-\[--popover-background-color\] {
+    background-color: var(--sn-stylekit-passive-color-4) !important;
+}
 code.Lexical__code {
     background-color: #17181c;
 }
