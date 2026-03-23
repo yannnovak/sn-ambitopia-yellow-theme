@@ -88,3 +88,8 @@ code.Lexical__code {
 .Lexical__tokenPunctuation {
     color: #e3e3e3;
 }
+@media (min-width: 768px) {
+    .md\:bg-\[--popover-background-color\] {
+        background-color: var(--background-color) !important;
+    }
+}
